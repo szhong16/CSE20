@@ -1,0 +1,34 @@
+Welcome to the SI Unit Converter!
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+You did not choose correctly.
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+Please enter a temperature in Fahrenheit:
+You did not enter a number.
+Please enter a temperature in Fahrenheit:
+32 Fahrenheit corresponds to 0 Celsius.
+Do you want to continue? [Y/N]:
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+Please enter miles:
+You did not enter a number.
+Please enter miles:
+2 miles corresponds to 3.22 km.
+Do you want to continue? [Y/N]:
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+Please enter pounds:
+You did not enter a number.
+Please enter pounds:
+1 pounds corresponds to 0.45 kg.
+Do you want to continue? [Y/N]:
+Goodbye!

@@ -1,0 +1,23 @@
+Welcome to the SI Unit Converter!
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+Please enter a temperature in Fahrenheit:
+30.5 Fahrenheit corresponds to -0.83 Celsius.
+Do you want to continue? [Y/N]:
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+Please enter miles:
+1.5 miles corresponds to 2.41 km.
+Do you want to continue? [Y/N]:
+Please choose one of the following conversions:
+Fahrenheit to Celsius - F
+Pounds to kg - P
+Miles to km - M
+Please enter pounds:
+2.5 pounds corresponds to 1.13 kg.
+Do you want to continue? [Y/N]:
+Goodbye!
